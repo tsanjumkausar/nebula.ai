@@ -17,6 +17,7 @@ Nebula is a sentiment analysis assistant that detects and understands emotions�
 
 🎭 Custom Theming: A sleek dark-themed UI with pink highlights for an engaging experience
 
+&nbsp;
 
 🚀 HOW IT WORKS :
 
