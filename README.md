@@ -16,3 +16,10 @@ Nebula is a sentiment analysis assistant that detects and understands emotions�
 🌍 Hugging Face Deployment: Easily accessible and shareable via Hugging Face Spaces.
 
 🎭 Custom Theming: A sleek dark-themed UI with pink highlights for an engaging experience
+
+
+🚀 HOW IT WORKS :
+
+1. Type how you're feeling in the input box.
+2. Click the submit button to analyze sentiment.
+3. Nebula will classify your text as happy or sad and display the result!
