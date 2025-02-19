@@ -4,7 +4,8 @@
 Nebula is a sentiment analysis assistant that detects and understands emotions—happy or sad—with precision!
 
 
-🌟 Features :
+
+🌟 FEATURES :
 
 🧠 Sentiment Analysis: Utilizes a pre-trained Hugging Face model (distilbert-base-uncased-finetuned-sst-2-english) to determine the sentiment of user input.
 
