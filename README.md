@@ -1,4 +1,4 @@
-Nebula - Your Sentiment Analysis Assistant 🚀💡💬
+## NEBULA - YOUR SENTIMENTAL ANALYSIS ASSISTANT 🚀💡💬
 
 
 Nebula is a sentiment analysis assistant that detects and understands emotions—happy or sad—with precision!
