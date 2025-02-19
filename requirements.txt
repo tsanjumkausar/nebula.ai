@@ -1,0 +1,6 @@
+torch
+torchtext
+transformers
+gradio
+gunicorn
+
