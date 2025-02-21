@@ -21,6 +21,7 @@ Nebula is a sentiment analysis assistant that detects and understands emotionsâ€
 &nbsp;
 
 ðŸš€ HOW IT WORKS :
+![Screenshot 2025-02-21 064745](https://github.com/user-attachments/assets/26e3857d-8412-4721-a6df-51b28ed04eb7)
 
 1. Type how you're feeling in the input box.
 2. Click the submit button to analyze sentiment.
